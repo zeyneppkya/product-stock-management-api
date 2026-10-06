@@ -20,6 +20,38 @@ Proje Spring Boot ile REST API olarak geliştirilmiş, verileri PostgreSQL verit
 * Merkezi hata yönetimi
 * JUnit & Mockito ile servis katmanı testleri
 
+## Ekran Görüntüleri
+
+### Swagger / OpenAPI Arayüzü
+
+Ürün uç noktaları:
+
+![Urunler](docs/screenshots/swagger-urunler.png)
+
+Stok hareketleri ve Tedarikçi uç noktaları:
+
+![Stok hareketleri](docs/screenshots/swagger-stok-hareketleri.png)
+
+Kategori ve Raporlar :
+
+![Kategori ve tedarikci](docs/screenshots/swagger-kategori-tedarikci.png)
+
+Veri modelleri (Schemas):
+
+![Schemas](docs/screenshots/swagger-schemas.png)
+
+### Stok Kontrolü — Yetersiz Stok Hatası
+
+![Yetersiz stok](docs/screenshots/yetersiz-stok.png)
+
+### Excel Raporu
+
+![Excel raporu](docs/screenshots/excel-raporu.png)
+
+### Testler
+
+![Testler](docs/screenshots/testler.png)
+
 ## Kullanılan Teknolojiler
 
 * Java 21
